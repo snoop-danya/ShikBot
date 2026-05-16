@@ -1,0 +1,50 @@
+2026-05-16 17:58:13,689 [INFO] database: Добавлен столбец users.last_work
+2026-05-16 17:58:13,690 [INFO] database: Добавлен столбец users.last_top_reward
+2026-05-16 17:58:13,691 [INFO] database: Добавлен столбец users.business
+2026-05-16 17:58:13,693 [INFO] database: Добавлен столбец users.has_garage
+2026-05-16 17:58:13,694 [INFO] database: Добавлен столбец users.btc_balance
+2026-05-16 17:58:13,695 [INFO] database: Добавлен столбец users.gang_id
+2026-05-16 17:58:13,697 [INFO] database: Добавлен столбец users.gang_rank
+2026-05-16 17:58:13,698 [INFO] database: Добавлен столбец users.warn_count
+2026-05-16 17:58:13,699 [INFO] database: Добавлен столбец users.mining_power
+2026-05-16 17:58:13,701 [INFO] database: Добавлен столбец users.mining_cards
+2026-05-16 17:58:13,703 [INFO] database: Добавлен столбец users.total_invested
+2026-05-16 17:58:13,704 [INFO] database: Добавлен столбец users.total_earned
+2026-05-16 17:58:13,705 [INFO] database: Добавлен столбец users.daily_quests
+2026-05-16 17:58:13,706 [INFO] database: Добавлен столбец users.weekly_quests
+2026-05-16 17:58:13,708 [INFO] database: Добавлен столбец users.last_daily_reset
+2026-05-16 17:58:13,709 [INFO] database: Добавлен столбец users.last_weekly_reset
+2026-05-16 17:58:13,710 [INFO] database: Добавлен столбец users.notifications
+2026-05-16 17:58:13,711 [INFO] database: Добавлен столбец users.privacy_settings
+2026-05-16 17:58:13,713 [INFO] database: Добавлен столбец users.theme
+2026-05-16 17:58:13,714 [INFO] database: Добавлен столбец users.auto_sell_btc
+2026-05-16 17:58:13,715 [INFO] database: Добавлен столбец users.cards_level
+2026-05-16 17:58:13,716 [INFO] database: Добавлен столбец users.gang_exp
+2026-05-16 17:58:13,718 [INFO] database: Добавлен столбец users.last_login
+2026-05-16 17:58:13,719 [INFO] database: Добавлен столбец users.playtime
+2026-05-16 17:58:13,720 [INFO] database: Добавлен столбец users.achievements
+2026-05-16 17:58:13,722 [INFO] database: Добавлен столбец users.language
+2026-05-16 17:58:13,729 [INFO] database: База данных инициализирована.
+2026-05-16 17:58:13,729 [INFO] __main__: 📊 Игроков: 0
+2026-05-16 17:58:13,730 [INFO] __main__: 🔫 Банд: 0
+2026-05-16 17:58:13,730 [INFO] __main__: 🗺  Территорий: 50
+2026-05-16 17:58:14,232 [INFO] __main__: 🤖 Бот Shakal Game запускается...
+2026-05-16 17:58:35,582 [INFO] __main__: 🛑 Бот остановлен.
+2026-05-16 17:59:15,973 [INFO] database: База данных инициализирована.
+2026-05-16 17:59:15,973 [INFO] __main__: 📊 Игроков: 0
+2026-05-16 17:59:15,974 [INFO] __main__: 🔫 Банд: 0
+2026-05-16 17:59:15,974 [INFO] __main__: 🗺  Территорий: 50
+2026-05-16 17:59:16,359 [INFO] __main__: 🤖 Бот Shakal Game запускается...
+2026-05-16 17:59:37,679 [INFO] __main__: 🛑 Бот остановлен.
+2026-05-16 18:02:00,380 [INFO] database: База данных инициализирована.
+2026-05-16 18:02:00,381 [INFO] __main__: 📊 Игроков: 0
+2026-05-16 18:02:00,381 [INFO] __main__: 🔫 Банд: 0
+2026-05-16 18:02:00,381 [INFO] __main__: 🗺  Территорий: 50
+2026-05-16 18:02:00,816 [INFO] __main__: 🤖 Бот Shakal Game запускается...
+2026-05-16 18:02:22,108 [INFO] __main__: 🛑 Бот остановлен.
+2026-05-16 18:41:27,033 [INFO] database: База данных инициализирована.
+2026-05-16 18:41:27,034 [INFO] __main__: 📊 Игроков: 0
+2026-05-16 18:41:27,034 [INFO] __main__: 🔫 Банд: 0
+2026-05-16 18:41:27,035 [INFO] __main__: 🗺  Территорий: 50
+2026-05-16 18:41:29,106 [INFO] __main__: 🤖 Бот Shakal Game запускается...
+2026-05-16 18:41:50,510 [INFO] __main__: 🛑 Бот остановлен.
