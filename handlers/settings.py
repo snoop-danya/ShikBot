@@ -264,7 +264,7 @@ async def tx_history(callback: types.CallbackQuery, cur: sqlite3.Cursor, **_):
 @require_registered_cb
 async def about_bot(callback: types.CallbackQuery, **_):
     text = (
-        "ℹ️ <b>О БОТЕ ШАКАЛ</b>\n"
+        "ℹ️ <b>О БОТЕ Dexp0v Money</b>\n"
         "━━━━━━━━━━━━━━━━━━━━━━\n\n"
         "🏙 Экономическая игра с:\n"
         "• ⚒ Работой и заработком\n"

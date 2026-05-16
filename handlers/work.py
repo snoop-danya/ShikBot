@@ -130,7 +130,7 @@ async def casino_menu(message: types.Message, cur: sqlite3.Cursor, **_):
     uid     = message.from_user.id
     balance = cur.execute("SELECT balance FROM users WHERE id=?", (uid,)).fetchone()[0]
     text    = (
-        f"🎰 <b>КАЗИНО «ШАКАЛ»</b>\n"
+        f"🎰 <b>КАЗИНО «УДАЧА»</b>\n"
         f"━━━━━━━━━━━━━━━━━━━━━━\n\n"
         f"💵 Твой баланс: <b>{fmt(balance)}₽</b>\n\n"
         f"Сделай ставку и испытай удачу!\n\n"
@@ -246,7 +246,7 @@ async def back_to_casino(callback: types.CallbackQuery, cur: sqlite3.Cursor, **_
     uid     = callback.from_user.id
     balance = cur.execute("SELECT balance FROM users WHERE id=?", (uid,)).fetchone()[0]
     text    = (
-        f"🎰 <b>КАЗИНО «ШАКАЛ»</b>\n"
+        f"🎰 <b>КАЗИНО «УДАЧА»</b>\n"
         f"━━━━━━━━━━━━━━━━━━━━━━\n\n"
         f"💵 Твой баланс: <b>{fmt(balance)}₽</b>\n\n"
         f"Сделай ставку!"

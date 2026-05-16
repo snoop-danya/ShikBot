@@ -47,7 +47,7 @@ async def cmd_start(
 
         await state.update_data(referrer_id=ref_id)
         await message.answer(
-            "🏙 <b>ДОБРО ПОЖАЛОВАТЬ В БОТ ШАКАЛ!</b>\n\n"
+            "🏙 <b>ДОБРО ПОЖАЛОВАТЬ В БОТ Dexp0v Money!</b>\n\n"
             "Ты прибыл в город возможностей — здесь есть всё:\n"
             "от майнинга до бандитских разборок.\n\n"
             "✏️ Как тебя называть? (3–15 символов):",

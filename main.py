@@ -74,7 +74,7 @@ async def main() -> None:
     asyncio.create_task(daily_reset_loop(db, cur))
     asyncio.create_task(crypto_price_loop(db, cur))
 
-    log.info("🤖 Бот Dexp0v Money запускается...")
+    log.info("🤖 Бот Shakal Game запускается...")
     try:
         await bot_instance.bot.delete_webhook(drop_pending_updates=True)
         await dp.start_polling(bot_instance.bot, allowed_updates=dp.resolve_used_update_types())
